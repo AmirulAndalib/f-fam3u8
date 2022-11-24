@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="Free", 140p Quality
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKayb.jpg" group-title="Smart Bisnu", Bisnu Ray
-https://t.me/SmartBisnuBio
 #EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="Free", 244p Quality 
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="Free", 360p Quality 
@@ -21,3 +19,5 @@ https://premiumnetworktv.tk/640p/FIFA-World-Cup.m3u8
 https://premiumnetworktv.tk/850p/FIFA-World-Cup.m3u8
 #EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="Paid", 720p Quality 
 https://premiumnetworktv.tk/1000p/FIFA-World-Cup.m3u8
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKayb.jpg" group-title="Smart Bisnu", Bisnu Ray
+https://t.me/SmartBisnuBio

@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="Free", 1080p Quality Cdn-1
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="FoxSportsHD1", 1080p Quality Cdn-1
 https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="Free", 1080p Quality Cdn-2
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="FoxSportsHD2", 1080p Quality Cdn-2
 https://playing.tunnelcdnsw.net/live/fs2us/index.m3u8
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="Free", 1080p Quality Cdn-3
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKBf8.png" group-title="FoxSportsHD3", 1080p Quality Cdn-3
 https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
